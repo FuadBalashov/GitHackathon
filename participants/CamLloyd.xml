@@ -1,5 +1,6 @@
-   <participant>
-     <name>Cam Lloyd</name>
-     <favoriteCereal>Cheerios</favoriteCereal>
-     <funfact>Loves to knit</funfact>
-   </participant>
+
+<participant>
+  <name>Cam Lloyd</name>
+  <favoriteCereal>Cheerios</favoriteCereal>
+  <funFact>Loves to knit</funFact>
+</participant>
