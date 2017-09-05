@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 <participant>
   <name>Liya Ketema</name>
   <favoriteCereal>Corn Flakes</favoriteCereal>
   <funFact>In b/n bilingual-trilingual</funFact>
 </participant>
+=======
+   <participant>
+     <name>Liya Ketema</name>
+     <favoriteCereal>Corn Flakes</favoriteCereal>
+     <funfact>In b/n bilingual-trilingual</funfact>
+   </participant>
+>>>>>>> f152d92687454df13d2345f54aedce2ed017041e
