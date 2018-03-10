@@ -1,5 +1,5 @@
-   <participant>
-     <name>Victoria Graf</name>
-     <favoriteCereal>Cheerios</favoriteCereal>
-     <funfact>I Don't Like Fun</funfact>
-   </participant>
+<participant>
+  <name>Victoria Graf</name>
+  <favoriteCereal>Cheerios</favoriteCereal>
+  <funFact>I Don't Like Fun</funFact>
+</participant>
