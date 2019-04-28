@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<participant>
+  <name>Jazmine Smith</name>
+  <favoriteCereal>Frosted Flakes</favoriteCereal>
+  <funFact>I love steak</funFact>
+</participant>
+=======
+   <participant>
+     <name>Jazmine Smith</name>
+     <favoriteCereal>Frosted Flakes</favoriteCereal>
+     <funfact>I love steak</funfact>
+   </participant>
+>>>>>>> f152d92687454df13d2345f54aedce2ed017041e
