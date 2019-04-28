@@ -1,0 +1,5 @@
+<participant>
+  <name>Jeff </name>
+  <favoriteCereal>Life</favoriteCereal>
+  <funfact>studies astrology in spare time</funfact>
+</participant>
