@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<participant>
+  <name>Philip Gouldman</name>
+  <favoriteCereal>Honey Nut Cheerios</favoriteCereal>
+  <funFact>Currently a rhythm guitarist in a melodic death metal band</funFact>
+</participant>
+=======
+   <participant>
+     <name>Philip Gouldman</name>
+     <favoriteCereal>Honey Nut Cheerios</favoriteCereal>
+     <funfact>Currently a rhythm guitarist in a melodic death metal band</funfact>
+   </participant>
+>>>>>>> f152d92687454df13d2345f54aedce2ed017041e
